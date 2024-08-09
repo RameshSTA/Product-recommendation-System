@@ -69,16 +69,4 @@ For more details, access the project repository: [**Product Recommendation Syste
 
 ---
 
-### **Formatting Notes:**
-
-- **Bold** text highlights key points.
-- Use **font sizes** with `#` for headers and subheaders.
-- **Colors** are managed by embedding HTML in Markdown. For example:
-    ```html
-    <span style="color:blue">Blue text</span>
-    ```
-- **Font Size** can also be customized similarly:
-    ```html
-    <span style="font-size:20px">Larger text</span>
-    ```
 
